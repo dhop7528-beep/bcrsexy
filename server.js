@@ -5,7 +5,7 @@ const https = require('https');
 // ======================
 // CẤU HÌNH
 // ======================
-const BASE = "https://autobcr.com/";
+const BASE = "https://autobcr.com";
 const LOGIN_URL = `${BASE}/login`;
 const LOBBY_URL = `${BASE}/ae/lobby`;
 const GETNEWRESULT_URL = `${BASE}/baccarat/getnewresult`;
