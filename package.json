@@ -1,0 +1,30 @@
+{
+  "name": "baccarat-api-server",
+  "version": "2.0.0",
+  "description": "Baccarat API Server - Tích hợp lịch sử & dự đoán từ AE Lobby",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "baccarat",
+    "api",
+    "express",
+    "axios",
+    "prediction",
+    "casino"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
