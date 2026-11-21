@@ -2,10 +2,10 @@
   "name": "baccarat-api-server",
   "version": "2.0.0",
   "description": "Baccarat API Server - Tích hợp lịch sử & dự đoán từ AE Lobby",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "keywords": [
     "baccarat",
